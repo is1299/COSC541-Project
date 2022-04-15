@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Dochearth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Medical" sketch:type="MSLayerGroup" transform="translate(-140.000000, -717.000000)" stroke-linecap="round" stroke="#dcf3f5" stroke-width="2">
+            <g id="Heartdoc" transform="translate(143.000000, 720.000000)" sketch:type="MSShapeGroup">
+                <path d="M31.4060751,39 L0.990894316,39 C0.443638497,39 0,38.5620117 0,37.9967579 L0,1.00324215 C0,0.44916681 0.443261772,0 0.996782452,0 L41.0032175,0 C41.5537253,0 42,0.452432156 42,0.993603803 L42,28.8652641" id="Rectangle-247"></path>
+                <path d="M3.5445291,21.0431526 L8.92063231,21.0431526 L13.799198,10.8040595 L19.6720452,32.63437 L24.9886344,7 L31.6296097,20.7293159 L38.3677967,20.7293159" id="Path-603" stroke-linejoin="round"></path>
+                <path d="M28.9197995,35.3547625 C27.7306904,31.4144014 32.1140933,27.0309985 36.0544543,27.0309985 C38.5360903,27.0309985 40.721801,28.2980054 42,30.2204329 C43.278199,28.2980054 45.4639097,27.0309985 47.9455457,27.0309985 C51.8859067,27.0309985 56.2693096,31.4144014 55.0802005,35.3547625 C53.8910913,39.2951235 42,48.2183014 42,48.2183014 C42,48.2183014 30.1089087,39.2951235 28.9197995,35.3547625 Z" id="Oval-244"></path>
+            </g>
+        </g>
+    </g>
+</svg>
